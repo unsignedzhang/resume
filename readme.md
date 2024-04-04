@@ -3,6 +3,7 @@
 - 在线展示简历，多端自适应，且支持下载
 - 简历被查看时，发送邮件提醒，附带查看者位置及设备信息
 - 简历浏览结束时，发送邮件提醒，附带浏览时长
+
 ![](https://unsignedzhang.cn/wp-content/uploads/2024/04/QQ截图20240404152848-300x141.png)
 ![](https://unsignedzhang.cn/wp-content/uploads/2024/04/qq_pic_merged_1712215705567-300x162.jpg)
 
@@ -32,7 +33,9 @@ b. 添加新的计划任务：访问URL（你的check_heartbeat.php的URL），�
 
 ## 感谢以下项目
 [LapisCV - 开箱即用的 Obsidian / Typora 简历](https://github.com/BingyanStudio/LapisCV "https://github.com/BingyanStudio/LapisCV")
+
 [https://mozilla.github.io/pdf.js/](https://mozilla.github.io/pdf.js/ "https://mozilla.github.io/pdf.js/")
+
 [https://github.com/PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer "https://github.com/PHPMailer/PHPMailer")
 
 另外感谢Kimi智能助手😄，帮我写了90%的代码
